@@ -1,0 +1,15 @@
+.exit
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+name
+const name = await contract.name()
+name
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT", "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+exit
+exit()
+const contract = await ethers getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266");
+const contract = await ethers getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract = await ethers getContract("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract = await ethers getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
