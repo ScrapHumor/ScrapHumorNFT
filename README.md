@@ -1,14 +1,15 @@
 # How to run ScrapHumorNFT
 
 
-Run the hardhat node and have local blockchain
-1. npx hardhat node
+1. Run the hardhat node and have local blockchain by typing the following command 
+npm install
+npx hardhat node
 
-Run the web UI
-2. npm run start
+2. Run the web UI
+ npm run start
 
-Deploy Contracts to the blockchain
-3. npx hardhat run src/backend/scripts/deploy.js --network localhost
+3. Deploy Contracts to the blockchain
+npx hardhat run src/backend/scripts/deploy.js --network localhost
 
 
 ScrapHumour Team
